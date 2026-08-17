@@ -29,9 +29,9 @@ py-modules = ["provider"]
 packages = ["hermes_fishaudio_tts"]
 
 [project.urls]
-Homepage = "https://github.com/xiaoyaner0201/hermes-fishaudio-tts"
-Repository = "https://github.com/xiaoyaner0201/hermes-fishaudio-tts"
-Issues = "https://github.com/xiaoyaner0201/hermes-fishaudio-tts/issues"
+Homepage = "https://github.com/xiaoyaner-home/hermes-fishaudio-tts"
+Repository = "https://github.com/xiaoyaner-home/hermes-fishaudio-tts"
+Issues = "https://github.com/xiaoyaner-home/hermes-fishaudio-tts/issues"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

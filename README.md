@@ -1,6 +1,6 @@
 # Hermes Fish Audio TTS
 
-[![CI](https://github.com/xiaoyaner0201/hermes-fishaudio-tts/actions/workflows/ci.yml/badge.svg)](https://github.com/xiaoyaner0201/hermes-fishaudio-tts/actions/workflows/ci.yml)
+[![CI](https://github.com/xiaoyaner-home/hermes-fishaudio-tts/actions/workflows/ci.yml/badge.svg)](https://github.com/xiaoyaner-home/hermes-fishaudio-tts/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
 A Hermes-native [Fish Audio](https://fish.audio/) text-to-speech provider. It uses Hermes Agent's public `TTSProvider` plugin API—no monkey patches and no Hermes core-file edits.
@@ -25,7 +25,7 @@ A Hermes-native [Fish Audio](https://fish.audio/) text-to-speech provider. It us
 ## Install
 
 ```bash
-hermes plugins install xiaoyaner0201/hermes-fishaudio-tts
+hermes plugins install xiaoyaner-home/hermes-fishaudio-tts
 hermes plugins enable fishaudio-tts
 ```
 
